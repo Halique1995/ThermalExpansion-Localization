@@ -26,11 +26,11 @@ achievement.thermalexpansion.accumulator.desc=No, non funziona con la lava. Most
 achievement.thermalexpansion.assembler=Un circolo vizioso
 achievement.thermalexpansion.assembler.desc=No, non creerà quello.
 achievement.thermalexpansion.charger=What The Flux?
-achievement.thermalexpansion.charger.desc=Il non conosce nessun collegamento. Guardati le mani.
+achievement.thermalexpansion.charger.desc=Flux non conosce limiti.
 
 
 achievement.thermalexpansion.wrench=Sembra un chiodo!
-achievement.thermalexpansion.wrench.desc=Qualunque oggetto è un martello se *propio* serve.
+achievement.thermalexpansion.wrench.desc=Qualunque strumento è un martello se *propio* serve.
 achievement.thermalexpansion.multimeter=B.S.E.E.
 achievement.thermalexpansion.multimeter.desc=Non c'è nessun incidente, solo fortuna.
 achievement.thermalexpansion.schematic=Nessuna trama coinvolta
@@ -54,7 +54,7 @@ achievement.thermalexpansion.fluidPyrotheum.desc=Questo è peggio della lava. Mo
 achievement.thermalexpansion.fluidCryotheum=L'inverno stà arrivando
 achievement.thermalexpansion.fluidCryotheum.desc=Anche questo è peggio della lava, solo che è freddo. Yeti.
 achievement.thermalexpansion.fluidMana=Quando la magia incontra la tecnologia.
-achievement.thermalexpansion.fluidMana.desc=What is this I don't even?
+achievement.thermalexpansion.fluidMana.desc=Cos'è questo che non ho?
 achievement.thermalexpansion.fluidCoal=La liquificazione è salvezza!
 achievement.thermalexpansion.fluidCoal.desc=Questo non può *possibilmente* essere un bene per la natura.
 
@@ -74,8 +74,8 @@ config.thermalexpansion.plugins=Plugins
 config.thermalexpansion.plugins.tweak=Opzioni
 config.thermalexpansion.security=Sicurezza
 config.thermalexpansion.tweak=Modifiche
-config.thermalexpansion.tweak.crafting=Fabbricazione
-config.thermalexpansion.tweak.recipe=Ricette
+config.thermalexpansion.tweak.crafting=Crafting
+config.thermalexpansion.tweak.recipe=Ricetta
 
 #Cell
 info.thermalexpansion.decRecv=Diminuisci entrata di RF di
@@ -200,7 +200,7 @@ info.thermalexpansion.wrench=Usa una chiave inglese con Shift per smantellare.
 #Items
 item.thermalexpansion.armor.invarHelmet.name=Elmo di invar
 item.thermalexpansion.armor.invarPlate.name=Corazza di invar
-item.thermalexpansion.armor.invarLegs.name=Gambiera di invar
+item.thermalexpansion.armor.invarLegs.name=Gambali di invar
 item.thermalexpansion.armor.invarBoots.name=Stivali di invar
 
 item.thermalexpansion.augment.dynamoCoilDuct.name=Bobina di trasmissione con tubatura
@@ -264,7 +264,7 @@ item.thermalexpansion.tool.invarFishingRod.name=Canna da pesca rinforzata di inv
 item.thermalexpansion.tool.invarSickle.name=Falce di invar
 item.thermalexpansion.tool.invarBow.name=Arco rinforzato di invar
 
-item.thermalexpansion.tool.wrench.name=Martello a mezzaluna
+item.thermalexpansion.tool.wrench.name=Wrench
 item.thermalexpansion.tool.multimeter.name=Multimetro
 item.thermalexpansion.tool.debugger.name=Debugger
 item.thermalexpansion.tool.igniter.name=Accendino a Flux
@@ -355,7 +355,7 @@ tile.thermalexpansion.cache.resonant.name=Ripostiglio risonante
 tile.thermalexpansion.cell=Cella di energia
 tile.thermalexpansion.cell.creative.name=Cella di energia creativa
 tile.thermalexpansion.cell.basic.name=Cella di energia di piombo
-tile.thermalexpansion.cell.hardened.name=Cella di energia indurito
+tile.thermalexpansion.cell.hardened.name=Cella di energia indurita
 tile.thermalexpansion.cell.reinforced.name=Cella di energia di pietrarossa
 tile.thermalexpansion.cell.resonant.name=Cella di energia risonante
 
@@ -367,7 +367,7 @@ tile.thermalexpansion.device.nullifier.name=Nullificatore
 
 tile.thermalexpansion.dynamo=Dinamo
 tile.thermalexpansion.dynamo.steam.name=Dinamo a vapore
-tile.thermalexpansion.dynamo.magmatic.name=Dinamo magmatico
+tile.thermalexpansion.dynamo.magmatic.name=Dinamo a lava
 tile.thermalexpansion.dynamo.compression.name=Dinamo a compressione
 tile.thermalexpansion.dynamo.reactant.name=Dinamo a reazione
 tile.thermalexpansion.dynamo.enervation.name=Dinamo prosciugante
